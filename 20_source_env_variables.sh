@@ -1,0 +1,1 @@
+export REGION="us-central1"
