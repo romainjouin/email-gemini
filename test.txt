@@ -1,0 +1,39 @@
+sous sous sujet
+faire un deck pour les étudiants
+quels outils GenAi à présenter aux étudiants ? 
+Metalab : Appel à Projet accélération des usages de l'IA Générative dans l'économie
+Mission PSO - GPS Carrière
+Move to cloud
+Migration Ms SQL server -> BQ
+Metalab (Migration vers GCP)
+Chatbot RH (pour Jean Philippe Billot) 
+conf le 14 juin
+24 juin 2024
+Summer Camp 2024
+Ahmed Jerbi
+Question sécurité
+fine tuner un modèle
+VDI
+Partenariat
+Proofpoint Vs Sécurité de Workspace
+Fonctionnalités de Workspace
+2FA  pour Workspace
+BigQuery
+accreditation  (Search & Conversation)
+Google Colab
+Automatisation admission MBA
+BIF
+Etudiant : Hackhaton de l'état
+AI - Palm 2
+Prompt Engineering
+Adaptive learning
+45 licences  Duet Workspace 
+aider un pote de Stéphane a récupérer des data perso
+Google Scholar
+AI - bard
+Passage de drive à GCS
+ANR - AI Tutor
+AI - vertex
+conf à l'Essec
+Quota GPU 
+Workspace

@@ -1,0 +1,4 @@
+bindings:
+   - members:
+     - domain:romainjouin.altostrat.com
+     role: roles/cloudfunctions.invoker
